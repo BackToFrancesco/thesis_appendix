@@ -3,7 +3,7 @@
 ## Test Details
 | **Field**          | **Details**                                                                                   |
 |---------------------|-----------------------------------------------------------------------------------------------|
-| **Model Used**      | GPT-4 Mini                                                                                   |
+| **Model Used**      | GPT-4o-mini                                                                                   |
 | **Objective**       | Validate the orchestration of multiple agents (MailAgent, ChatGPT, SlackAgent) to fulfill a user request. |
 | **User Request**    | Retrieve unread emails, categorize each email from a priority of 1 to 5, and send a summary of emails with priority ≥3 to the Slack channel #social. |
 | **Agents Involved** | **MailAgent**: Retrieves emails and categorizes them.<br> **ChatGPT**: Summarizes emails with priority ≥3.<br> **SlackAgent**: Sends summaries to Slack. |
