@@ -281,6 +281,7 @@ Update MailAgent Ledger:
 [2025-02-14T13:00:37.283166], MailAgent (thought):
 
 Update MailAgent Ledger:
+```
 {
   'task_complete:': False,
   'reason': The task requires moving both emails with IDs 103 and 105. Currently, only email with ID 103 has been successfully moved.,
@@ -290,7 +291,7 @@ Update MailAgent Ledger:
   'is_progress_being_made': True
   'reason': We successfully moved email with ID 103 and need to proceed with email ID 105, indicating incremental progress.
 }
-
+```
 --------------------------------------------------------------------------- 
 
 [2025-02-14T13:00:41.518262], MailAgent (response):
