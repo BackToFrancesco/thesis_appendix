@@ -243,6 +243,7 @@ The task of moving the email has been completed successfully. The email with the
 [2025-03-12T12:55:14.962628], MailAgent (update ledger):
 
 Updated Ledger:
+```
 {
     "task_complete": false,
     "task_complete_reason": "The task of moving the email with ID 101 to folder ID 4 has been completed successfully, but there is no confirmation about emails with IDs 103 and 105.", "self_follow_up_instruction": "Check the status of emails 103 and 105 and execute move if incomplete.",
@@ -251,7 +252,7 @@ Updated Ledger:
     "is_progress_being_made": true,
     "is_progress_being_made_reason": "Progress is being demonstrated since the email with ID 101 has been moved, but confirmation of completion is required for emails 103 and 105."
 }
-
+```
 --------------------------------------------------------------------------- 
 [2025-03-12T12:55:22.133504], MailAgent (response):
 
