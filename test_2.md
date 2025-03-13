@@ -4,7 +4,6 @@
 Review my unread emails, identify any that require immediate response, reply to those emails, and create a Jira task for each reply to track follow-ups.
 Emails that requires immediate response are:
 - Emails from clients or supervisors asking for urgent action (e.g., scheduling a meeting, submitting reports).
-- Emails about IT maintenance, security concerns, or system failures requiring immediate attention.
 - Emails mentioning same-day or near-immediate deadlines that impact work progress.
         
 
@@ -40,7 +39,6 @@ Here is an initial fact sheet to consider:
    - The task involves reviewing unread emails.
    - Immediate response is required for specific categories of emails: 
      - Emails from clients or supervisors asking for urgent action.
-     - Emails about IT maintenance, security concerns, or system failures requiring immediate attention.
      - Emails with same-day or near-immediate deadlines impacting work progress.
    - The task involves replying to those specific emails.
    - A Jira task needs to be created for each reply to track follow-ups.
@@ -48,7 +46,6 @@ Here is an initial fact sheet to consider:
 2. FACTS TO LOOK UP
    - Identification of unread emails: This would require accessing the email account to review unread messages.
    - Specific information about clients or supervisors for recognizing urgent emails: This might be found in contact lists or professional directories.
-   - Details about company IT maintenance and security procedures for recognizing relevant emails.
    - Deadlines mentioned in emails to determine immediacy.
    - Access to Jira to create tasks.
 
@@ -67,7 +64,7 @@ Here is the plan to follow as best as possible:
 
 - MailAgent:
   - Review unread emails in the Outlook account.
-  - Identify emails that require immediate response based on the given criteria (emails from clients or supervisors asking for urgent action, IT maintenance/security/system failure notifications requiring immediate attention, and emails mentioning same-day/near-immediate deadlines).
+  - Identify emails that require immediate response based on the given criteria (emails from clients or supervisors asking for urgent action and emails mentioning same-day/near-immediate deadlines).
   - Determine the urgency level of each unread email by analyzing the content.
 
 - ChatGPT:
